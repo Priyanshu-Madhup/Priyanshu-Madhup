@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-madhup&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-madhup" /> </p>
 
-- 🔭 I’m currently working on **Brain Tumor Detection**
+- 🔭 I’m currently working on **AI based workout planner**
 
 - 🌱 I’m currently learning **Deep Learning**
 
