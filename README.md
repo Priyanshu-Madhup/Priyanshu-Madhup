@@ -1,43 +1,108 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Priyanshu Madhup</h1>
-<h3 align="center">A passionate Machine Learning developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF%27s/Developer/Programming-yellow.gif" width="100%" alt="Developer Animation" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-madhup&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-madhup" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Priyanshu Madhup</h1>
 
-- 🔭 I’m currently working on **AI based workout planner**
+<h3 align="center">🚀 College Student & ML/LLM Enthusiast diving deep into Artificial Intelligence</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on **Desktop Voice assistant**
-
-- 🤝 I’m looking for help with **Finetuning LLM's**
-
-- 💬 Ask me about **Traditional ML models, LLM implementation**
-
-- 📫 How to reach me **priyanshumadhup@hotmail.com**
-
-- ⚡ Fun fact **I think learning is like a sin(x) curve, always with ups and downs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@PriyanshuMadhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyanshumadhup" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/priyanshu-madhup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanshu-madhup" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29480829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29480829" height="30" width="40" /></a>
-<a href="https://kaggle.com/priyanshumadhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyanshumadhup" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshu_madhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu_madhup" height="30" width="40" /></a>
-<a href="https://hashnode.com/@priyanshu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@priyanshu05" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@priyanshumadhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@priyanshumadhup" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanshu_madhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_madhup" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@priyanshumadhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priyanshumadhup" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/priyanshgbbr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/priyanshgbbr/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshu-madhup&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/GitHub-58%20Public%20Repos-blue?style=flat-square&logo=github" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20LLMs-orange?style=flat-square&logo=openai" alt="Focus" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-madhup&show_icons=true&locale=en&layout=compact" alt="priyanshu-madhup" /></p>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Stickers/main/Emoji/Activities/Crystal%20Ball.png" width="35" /> About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-madhup&show_icons=true&locale=en" alt="priyanshu-madhup" /></p>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <ul>
+          <li style="margin-bottom: 8px;">🔭 I’m currently working on an <b>AI-based workout planner</b>.</li>
+          <li style="margin-bottom: 8px;">🌱 I’m currently diving deeper into <b>Deep Learning & LLM fine-tuning</b>.</li>
+          <li style="margin-bottom: 8px;">👯 I’m looking to collaborate on <b>Desktop Voice Assistants</b> & AI tools.</li>
+          <li style="margin-bottom: 8px;">💬 Ask me about <b>Traditional ML models & LLM implementation</b>.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <ul>
+          <li style="margin-bottom: 8px;">📫 How to reach me: <b>priyanshumadhup@hotmail.com</b></li>
+          <li style="margin-bottom: 8px;">⚡ Fun fact: <i>I think learning is like a sin(x) curve — always with ups and downs!</i></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-madhup&" alt="priyanshu-madhup" /></p>
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Stickers/main/Emoji/Objects/Laptop.png" width="35" /> Tech Stack & Tools
+
+<div align="center">
+  <p><b>Machine Learning & Data Science</b></p>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" hspace="8"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45" hspace="8"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45" hspace="8"/>
+    <img src="https://2ae2a900d2f041da66e950e4d48052658d850630.cdn.bubble.io/f1604928509893x573489814470876100/pandas-original.svg" alt="pandas" width="45" height="45" hspace="8"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45" hspace="8"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45" hspace="8"/>
+  </p>
+
+  <p><b>Languages, Databases & Cloud</b></p>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" hspace="8"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" hspace="8"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" hspace="8"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" hspace="8"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" hspace="8"/>
+  </p>
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Stickers/main/Emoji/Objects/Chart%2520Increasing.png" width="35" /> GitHub Stats & Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=priyanshu-madhup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Priyanshu's GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-madhup&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-madhup&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Stickers/main/Emoji/Hand%20Gestures/Handshake.png" width="35" /> Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-madhup/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/@PriyanshuMadhup" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://kaggle.com/priyanshumadhup" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.leetcode.com/priyanshu_madhup" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://instagram.com/priyanshu_madhup" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://hashnode.com/@priyanshu05" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF%27s/UI-UX/Thank-you.gif" width="400" alt="Thank You Animation" />
+</div>
