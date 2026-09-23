@@ -1,47 +1,44 @@
-# Hi there, I'm Priyanshu Madhup! 👋
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<h1 align="center">Hi 👋, I'm Priyanshu Madhup</h1>
+<h3 align="center">A 4th year engineering student & passionate Machine Learning developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Priyanshu-Madhup)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-madhup)
-[![Email](https://img.shields.io/badge/Email-priyanshumadhup%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshumadhup@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-madhup&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-madhup" /> </p>
 
----
+- 🎓 I’m currently a **4th-year engineering student** studying Machine Learning and LLMs
+- 🔮 I’m currently working on **AI based workout planner**
 
-### 🚀 About Me
+- 🌱 I’m currently learning **Deep Learning**
 
-I am a passionate **Machine Learning Engineer & AI Systems Developer** and college student deeply immersed in building intelligent agents, multimodal applications, and high-performance AI tooling. My work bridges the gap between state-of-the-art Large Language Models (LLMs), real-time audio/speech processing, and robust full-stack desktop & web architectures.
+- 👯 I’m looking to collaborate on **Desktop Voice assistant**
 
----
+- 🤝 I’m looking for help with **Finetuning LLM's**
 
-### 🛠️ Tech Stack & Skills
+- 💬 Ask me about **Traditional ML models, LLM implementation**
 
-| Category | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **AI, LLMs & RAG** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat-square&logo=meta&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-f55036?style=flat-square&logo=groq&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=postman&logoColor=white) |
-| **Desktop & Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![PyWebView](https://img.shields.io/badge/PyWebView-20232A?style=flat-square&logo=python&logoColor=white) |
-| **Audio & Tools** | ![Edge TTS](https://img.shields.io/badge/Edge_TTS-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![MoviePy](https://img.shields.io/badge/MoviePy-FF4500?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+- 📫 How to reach me **priyanshumadhup@hotmail.com**
 
----
+- ⚡ Fun fact **I think learning is like a sin(x) curve, always with ups and downs**
 
-### 🌟 Featured Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@PriyanshuMadhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyanshumadhup" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-madhup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanshu-madhup" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29480829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29480829" height="30" width="40" /></a>
+<a href="https://kaggle.com/priyanshumadhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyanshumadhup" height="30" width="40" /></a>
+<a href="https://instagram.com/priyanshu_madhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu_madhup" height="30" width="40" /></a>
+<a href="https://hashnode.com/@priyanshu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@priyanshu05" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@priyanshumadhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@priyanshumadhup" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/priyanshu_madhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_madhup" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@priyanshumadhup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priyanshu_madhup" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/priyanshgbbr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/priyanshgbbr/" height="30" width="40" /></a>
+</p>
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Leo](https://github.com/Priyanshu-Madhup/Leo)** | Desktop AI voice assistant featuring continuous listening/VAD, aurora wave audio visualizers, local FAISS vector search, and multi-model LLM routing across 12+ providers. | `Python`, `PyWebView`, `FAISS`, `Edge TTS`, `Groq`, `OpenRouter` |
-| **[DocFox](https://github.com/Priyanshu-Madhup/DocFox)** | AI co-creator platform that repurposes documents and articles into engaging videos, podcasts, and mind maps with automated voiceover and visual synthesis. | `FastAPI`, `React`, `Firecrawl`, `Serper`, `Edge TTS`, `MoviePy` |
-| **[Stock Market Predictor](https://github.com/Priyanshu-Madhup/stock-market-predictor)** | Advanced predictive analytics and forecasting tool seamlessly integrated with Google's Gemini API for contextual financial insights and reporting. | `Python`, `Gemini API`, `Pandas`, `Scikit-Learn` |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/`" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-madhup&show_icons=true&locale=en&layout=compact" alt="priyanshu-madhup" /></p>
 
-### 📊 GitHub Profile Summary
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-madhup&show_icons=true&locale=en" alt="priyanshu-madhup" /></p>
 
-<div align="center">
-
-[![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Madhup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Madhup&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-madhup&" alt="priyanshu-madhup" /></p>
