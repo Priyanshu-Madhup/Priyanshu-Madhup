@@ -34,10 +34,14 @@ I am a passionate **Machine Learning Engineer & AI Systems Developer** and colle
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Profile Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Madhup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&cache_seconds=86400)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Madhup&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&cache_seconds=86400)
+[![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Madhup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Madhup&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakNum=7aa2f7)
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Madhup&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
